@@ -32,6 +32,14 @@ The screen includes the required UI elements:
    ```bash
    flutter run -d chrome
    ```
+   Step 5: Open in Browser
+Go to: http://127.0.0.1:8080
+
+Step 6: Test the App
+✅ Click "Sign Up" → Fill form → Click "Sign Up" → See success screen
+✅ Click "Back to Login"
+✅ Click "Forgot password?" → See dialog
+✅ Enter email/password → Click "Log In" → See success message
 
 ## Project Structure
 ```text
